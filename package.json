@@ -1,0 +1,15 @@
+{
+  "name": "nr10-sep-3d",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Jogo educativo NR 10 • SEP em 3D",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node test.mjs",
+    "manifest": "node manifest.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
